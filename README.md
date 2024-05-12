@@ -1,12 +1,12 @@
 LibraryManagementRestAPI
 It is a Library Management System Rest API that can perform CRUD operations.
 
-Technologies
+Technologies:
 Java
 Spring Boot
 PostgreSQL
 
-Entities
+Entities:
 Author
 Book
 BookBorrowing
